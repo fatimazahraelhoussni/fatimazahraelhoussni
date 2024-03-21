@@ -7,6 +7,30 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-zahra-el-houssni/" height="30" width="40" />
   </a>
 </p>
+<h3 align="left">Informations supplémentaires</h3>
+
+<ul>
+  <li><strong>Photo de profil :</strong> <img src="https://www.example.com/profile_pic.jpg" width="100" height="100" /></li>
+  <li><strong>Ville et pays :</strong> Casablanca, Maroc</li>
+  <li><strong>Site web :</strong> https://www.example.com</li>
+  <li><strong>Passions et hobbies :</strong> Programmation, lecture, voyage</li>
+
+  <li><strong>Titre professionnel actuel :</strong> Ingénieur logiciel</li>
+  <li><strong>Nom de l'entreprise et poste :</strong> Google, Ingénieur logiciel junior</li>
+  <li><strong>Années d'expérience :</strong> 2</li>
+  <li><strong>Compétences et spécialisations :</strong> Python, Java, Machine Learning</li>
+  <li><strong>Projets open source :</strong> https://github.com/fatima-zahra-el-houssni</li>
+  <li><strong>Publications et conférences :</strong> [Liste des publications et conférences]</li>
+
+  <li><strong>LinkedIn :</strong> https://www.linkedin.com/in/fatima-zahra-el-houssni</li>
+  <li><strong>Twitter :</strong> https://twitter.com/fatima_zahra_el_houssni</li>
+  <li><strong>Instagram :</strong> https://www.instagram.com/fatima_zahra_el_houssni</li>
+
+  <li><strong>Parcour et motivations :</strong> J'ai toujours été passionnée par la technologie et j'ai décidé de devenir ingénieur logiciel pour pouvoir utiliser mes compétences pour résoudre des problèmes complexes et avoir un impact positif sur le monde.</li>
+  <li><strong>Objectifs professionnels :</strong> Je souhaite devenir une experte en intelligence artificielle et créer des produits qui utilisent cette technologie pour améliorer la vie des gens.</li>
+  <li><strong>Technologies que vous souhaitez apprendre :</strong> Deep learning, traitement du langage naturel, vision par ordinateur</li>
+  <li><strong>Types de projets sur lesquels vous souhaitez travailler :</strong> Projets d'intelligence artificielle qui ont un impact social positif</li>
+</ul>
 
 <h3>Languages and Tools:</h3>
 <p>
