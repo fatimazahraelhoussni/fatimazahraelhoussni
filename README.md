@@ -1,36 +1,74 @@
-<h1 align="center">Bienvenue sur le profil GitHub de Fatima Zahra EL HOUSSNI 👋</h1>
-<h3 align="center">Salut! Je m'appelle Fatima Zahra EL HOUSSNI, une élève ingénieure en génie informatique à l'ENSA Oujda, passionnée par la résolution de problèmes complexes et par l'exploration des nouvelles technologies. Mon parcours dans le monde de la programmation et du développement a été enrichissant, et je suis toujours avide d'apprendre et d'explorer de nouveaux domaines.</h3>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profil GitHub - Fatima Zahra EL HOUSSNI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bienvenue sur le profil GitHub de Fatima Zahra EL HOUSSNI</h1>
+  </header>
 
-<h3 align="left">Connectez-vous avec moi :</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/fatima-zahra-el-houssni/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-zahra-el-houssni/" height="30" width="40" />
-  </a>
-</p>
-<h3 align="left">Informations supplémentaires</h3>
+  <section class="informations-personnelles">
+    <h2>Informations personnelles</h2>
+    <ul>
+      <li><img src="votre-photo-de-profil.jpg" alt="Photo de profil" width="100" height="100"></li>
+      <li><strong>Ville et pays :</strong> Oujda, Maroc</li>
+      <li><strong>Site web :</strong> (Ajouter votre site web personnel)</li>
+      <li><strong>Passions et hobbies :</strong> Programmation, lecture, voyage</li>
+    </ul>
+  </section>
 
-<ul>
-  <li><strong>Photo de profil :</strong> <img src="https://www.example.com/profile_pic.jpg" width="100" height="100" /></li>
-  <li><strong>Ville et pays :</strong> Casablanca, Maroc</li>
-  <li><strong>Site web :</strong> https://www.example.com</li>
-  <li><strong>Passions et hobbies :</strong> Programmation, lecture, voyage</li>
+  <section class="informations-professionnelles">
+    <h2>Informations professionnelles</h2>
+    <ul>
+      <li><strong>Titre professionnel actuel :</strong> Étudiante Ingénieure en Génie Informatique</li>
+      <li><strong>Nom de l'entreprise et poste :</strong> École Nationale des Sciences Appliquées, Oujda</li>
+      <li><strong>Années d'expérience :</strong> 2</li>
+      <li><strong>Compétences et spécialisations :</strong> 
+        <ul>
+          <li>Langages de programmation: Java, C#, C/C++, Python, JavaScript, PHP</li>
+          <li>Développement web: HTML, CSS, XML</li>
+          <li>Gestion de projet: Scrum, Git, GitHub, Trello, Docker, UML</li>
+          <li>Développement mobile: Android Studio, React Native</li>
+          <li>Développement back-end: Spring Boot, JEE, Symfony, Firebase</li>
+          <li>Développement front-end: React.js, Reactstrap, Redux Toolkit, jQuery, Bootstrap</li>
+          <li>Bases de données: MySQL, Oracle, PL/SQL</li>
+          <li>Apprentissage automatique: NLP (Traitement Automatique du Langage)</li>
+          <li>Réseau / Sécurité / Serveurs web: Réseau informatique, SSL, Nginx, Apache</li>
+        </ul>
+      </li>
+      <li><strong>Projets open source :</strong> <a href="https://github.com/fatimazahraelhoussni">https://github.com/fatimazahraelhoussni</a></li>
+      <li><strong>Publications et conférences :</strong> (Ajouter vos publications et conférences)</li>
+    </ul>
+  </section>
 
-  <li><strong>Titre professionnel actuel :</strong> Ingénieur logiciel</li>
-  <li><strong>Nom de l'entreprise et poste :</strong> Google, Ingénieur logiciel junior</li>
-  <li><strong>Années d'expérience :</strong> 2</li>
-  <li><strong>Compétences et spécialisations :</strong> Python, Java, Machine Learning</li>
-  <li><strong>Projets open source :</strong> https://github.com/fatima-zahra-el-houssni</li>
-  <li><strong>Publications et conférences :</strong> [Liste des publications et conférences]</li>
+  <section class="liens-reseaux-sociaux">
+    <h2>Liens vers vos réseaux sociaux</h2>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/fatima-zahra-el-houssni">LinkedIn</a></li>
+      <li><a href="#">Twitter</a></li>
+      <li><a href="#">Instagram</a></li>
+    </ul>
+  </section>
 
-  <li><strong>LinkedIn :</strong> https://www.linkedin.com/in/fatima-zahra-el-houssni</li>
-  <li><strong>Twitter :</strong> https://twitter.com/fatima_zahra_el_houssni</li>
-  <li><strong>Instagram :</strong> https://www.instagram.com/fatima_zahra_el_houssni</li>
+  <section class="autres-informations">
+    <h2>Autres</h2>
+    <ul>
+      <li><strong>Parcour et motivations :</strong> J'ai toujours été passionnée par la technologie et j'ai décidé de devenir ingénieur logiciel pour pouvoir utiliser mes compétences pour résoudre des problèmes complexes et avoir un impact positif sur le monde.</li>
+      <li><strong>Objectifs professionnels :</strong> Je souhaite devenir une experte en intelligence artificielle et créer des produits qui utilisent cette technologie pour améliorer la vie des gens.</li>
+      <li><strong>Technologies que vous souhaitez apprendre :</strong> Deep learning, traitement du langage naturel, vision par ordinateur</li>
+      <li><strong>Types de projets sur lesquels vous souhaitez travailler :</strong> Projets d'intelligence artificielle qui ont un impact social positif</li>
+    </ul>
+  </section>
 
-  <li><strong>Parcour et motivations :</strong> J'ai toujours été passionnée par la technologie et j'ai décidé de devenir ingénieur logiciel pour pouvoir utiliser mes compétences pour résoudre des problèmes complexes et avoir un impact positif sur le monde.</li>
-  <li><strong>Objectifs professionnels :</strong> Je souhaite devenir une experte en intelligence artificielle et créer des produits qui utilisent cette technologie pour améliorer la vie des gens.</li>
-  <li><strong>Technologies que vous souhaitez apprendre :</strong> Deep learning, traitement du langage naturel, vision par ordinateur</li>
-  <li><strong>Types de projets sur lesquels vous souhaitez travailler :</strong> Projets d'intelligence artificielle qui ont un impact social positif</li>
-</ul>
+  <footer>
+    <p>Copyright &copy; 2023 - Fatima Zahra EL HOUSSNI</p>
+  </footer>
+</body>
+</html>
 
 <h3>Languages and Tools:</h3>
 <p>
