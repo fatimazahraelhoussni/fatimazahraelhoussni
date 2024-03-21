@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/id/1295900106/fr/photo/scientifiques-des-donn%C3%A9es-programmeur-masculin-utilisant-lordinateur-portable-analysant-et.jpg?s=612x612&w=0&k=20&c=S4DKSLKzv4OcCcuCYkKeNwJsnAHTXDSaqPRBHohizIg=" alt="android" width="100%" height="100%"/>
+<img src="https://gamingcampus.fr/wp-content/uploads/2020/05/header-article-De%CC%81veloppeur-de-jeux-video.png" alt="android" width="70%" height="70%"/>
 
 
 <h1 align="center">Bienvenue sur le profil GitHub de Fatima Zahra EL HOUSSNI 👋</h1>
