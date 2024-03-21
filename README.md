@@ -1,6 +1,6 @@
 <h1 align="center">Bienvenue sur le profil GitHub de Fatima Zahra EL HOUSSNI 👋</h1>
 <h3 align="center">Salut! Je m'appelle Fatima Zahra EL HOUSSNI, une élève ingénieure en génie informatique à l'ENSA Oujda, passionnée par la résolution de problèmes complexes et par l'exploration des nouvelles technologies. Mon parcours dans le monde de la programmation et du développement a été enrichissant, et je suis toujours avide d'apprendre et d'explorer de nouveaux domaines.</h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Ffr%2Fphotos%2Fdeveloppement-informatique&psig=AOvVaw3LFP0KIrd-dUlC3fgiIlRj&ust=1711125883940000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjXsObmhYUDFQAAAAAdAAAAABAE" alt="android" width="40" height="40"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fatima-zahra-el-houssni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatima-zahra-el-houssni/" height="30" width="40" /></a>
