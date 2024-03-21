@@ -4,9 +4,9 @@
 <h1 align="center">Bienvenue sur le profil GitHub de Fatima Zahra EL HOUSSNI 👋</h1>
 <h3 align="center">Salut! Je m'appelle Fatima Zahra EL HOUSSNI, une élève ingénieure en génie informatique à l'ENSA Oujda, passionnée par la résolution de problèmes complexes et par l'exploration des nouvelles technologies. Mon parcours dans le monde de la programmation et du développement a été enrichissant, et je suis toujours avide d'apprendre et d'explorer de nouveaux domaines.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color:purple;">Connect with me:</h3>
 <p align="left">
-    <a href="mailto:elhossnifatimazahra@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
+    <a href="elhossnifatimazahra@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
     <a href="https://github.com/fatimazahraelhoussni" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/fatima-zahra-el-houssni/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
