@@ -19,13 +19,33 @@
 
 ---
 
-### 🛠️ Technical Skills
+<h2 align="center">🛠️ Technical Skills</h2>
 
-- **Programming Languages**:Java, JavaScript, C#, php
-- **Frontend**: HTML, CSS, React
-- **Backend**:Spring/Spring boot, Symfony
-- **Databases**: MySQL, MongoDB
-- **Development Tools**: Git, Docker, Visual Studio Code
+<div style="text-align: center; margin-top: 20px;">
+  <table style="width: 80%; margin: 0 auto; border: 1px solid #eaeaea; padding: 10px; font-family: Arial, sans-serif;">
+    <tr>
+      <td style="text-align: left; padding: 10px;"><strong>Programming Languages:</strong></td>
+      <td style="text-align: left; padding: 10px;">Java, JavaScript, C#, PHP</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 10px;"><strong>Frontend:</strong></td>
+      <td style="text-align: left; padding: 10px;">HTML, CSS, React</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 10px;"><strong>Backend:</strong></td>
+      <td style="text-align: left; padding: 10px;">Spring/Spring Boot, Symfony</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 10px;"><strong>Databases:</strong></td>
+      <td style="text-align: left; padding: 10px;">MySQL, MongoDB</td>
+    </tr>
+    <tr>
+      <td style="text-align: left; padding: 10px;"><strong>Development Tools:</strong></td>
+      <td style="text-align: left; padding: 10px;">Git, Docker, Visual Studio Code</td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
@@ -52,16 +72,7 @@ Feel free to reach out if you'd like to collaborate on interesting projects or d
 </p>
 
 
-<br/>
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+
   
 ##
  
