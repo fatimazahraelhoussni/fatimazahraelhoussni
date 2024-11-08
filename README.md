@@ -68,7 +68,6 @@ Feel free to reach out if you'd like to collaborate on interesting projects or d
   <a href="mailto:elhossnifatimazahra@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.instagram.com/elhoussnifatimazahra9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
 
