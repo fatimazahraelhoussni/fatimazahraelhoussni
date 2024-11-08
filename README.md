@@ -2,7 +2,53 @@
 
 
 <h1 align="center">Bienvenue sur le profil GitHub de Fatima Zahra EL HOUSSNI 👋</h1>
-<h3 align="center">Salut! Je m'appelle Fatima Zahra EL HOUSSNI, une élève ingénieure en génie informatique à l'ENSA Oujda, passionnée par la résolution de problèmes complexes et par l'exploration des nouvelles technologies. Mon parcours dans le monde de la programmation et du développement a été enrichissant, et je suis toujours avide d'apprendre et d'explorer de nouveaux domaines.</h3><br/>
+<h3 align="center">Salut ! Je m'appelle Fatima Zahra EL HOUSSNI, élève ingénieure en génie informatique à l'ENSA Oujda, passionnée par la résolution de problèmes complexes et l'exploration de nouvelles technologies. À travers mon parcours, j'ai acquis des compétences variées en programmation, en développement logiciel, et en ingénierie. Curieuse et motivée, je suis toujours en quête de nouveaux défis pour affiner mes compétences et apprendre davantage dans ce domaine en constante évolution.</h3>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/fatimazahraelhoussni" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:fatimazahraelhoussni@example.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+### 👩‍💻 À propos de moi
+
+- 🎓 **Éducation** : Élève ingénieure en génie informatique à l'ENSA Oujda
+- 💻 **Domaines d'expertise** : Développement Backend, Frontend, et Technologies Cloud
+- 🔍 **Intérêts** : Intelligence artificielle, Big Data, et Blockchain
+- 🌱 **En cours d'apprentissage** : Technologies DevOps, Docker, Kubernetes, et Machine Learning
+- 🚀 **Objectif professionnel** : Créer des solutions innovantes et efficaces pour répondre aux défis technologiques actuels
+
+---
+
+### 🛠️ Compétences Techniques
+
+- **Langages de programmation** : Python, Java, JavaScript, C++
+- **Technologies Web** : HTML, CSS, React, Node.js
+- **Bases de données** : MySQL, MongoDB
+- **Outils de développement** : Git, Docker, Visual Studio Code
+
+---
+
+### 📈 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FatimaZahraELHOUSSNI&show_icons=true&theme=radical" alt="Fatima Zahra's GitHub stats">
+</p>
+
+---
+
+### 📫 Contact
+
+N'hésitez pas à me contacter si vous souhaitez collaborer sur des projets intéressants ou discuter de nouvelles idées ! 
+
+
 
 <h3 align="left" style="color:purple;">Connect with me:</h3>
 <p align="left">
