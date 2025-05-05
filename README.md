@@ -1,7 +1,11 @@
 <img src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?semt=ais_hybrid" alt="android" width="70%" height="70%" />
 
 <h1 align="center">Welcome to Fatima Zahra EL HOUSSNI's GitHub Profile 👋</h1>
-<h3 align="center">Hi! I'm Fatima Zahra EL HOUSSNI, a final-year software engineering student at ENSA Oujda, passionate about solving complex problems and exploring new technologies. Throughout my studies, I've gained a wide range of skills in programming, software development, and engineering. Curious and motivated, I am always on the lookout for new challenges to refine my skills and continue learning in this constantly evolving field.</h3>
+<h3 align="center">I'm Fatima Zahra EL HOUSSNI, a Research Assistant at Oracle — specifically within Oracle Labs, the advanced research and development branch of Oracle.
+
+Oracle Labs focuses on exploring new ideas, emerging technologies, and innovative approaches to shape the future of computing. As part of this dynamic environment, I’m deepening my knowledge of modern software systems and contributing to forward-thinking research projects.
+
+I'm passionate about technology, software architecture, and solving complex problems. With a curious and motivated mindset, I continuously seek out opportunities to grow and make meaningful contributions to impactful projects.</h3>
 
 ---
 
