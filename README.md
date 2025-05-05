@@ -1,11 +1,11 @@
-<img src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?semt=ais_hybrid" alt="android" width="70%" height="70%" />
+<img src="https://raw.githubusercontent.com/graalvm/.github/alina-yur-patch-1/github-cover.png" alt="android" width="70%" height="70%" />
 
 <h1 align="center">Welcome to Fatima Zahra EL HOUSSNI's GitHub Profile 👋</h1>
-<h3 align="center">I'm Fatima Zahra EL HOUSSNI, a Research Assistant at Oracle — specifically within Oracle Labs, the advanced research and development branch of Oracle.
+<h3 align="center">I'm a Research Assistant at Oracle — specifically within Oracle Labs, the advanced research and development branch of Oracle.
 
 Oracle Labs focuses on exploring new ideas, emerging technologies, and innovative approaches to shape the future of computing. As part of this dynamic environment, I’m deepening my knowledge of modern software systems and contributing to forward-thinking research projects.
 
-I'm passionate about technology, software architecture, and solving complex problems. With a curious and motivated mindset, I continuously seek out opportunities to grow and make meaningful contributions to impactful projects.</h3>
+I'm passionate about technology, software architecture, and solving complex problems. With a curious and motivated mindset, I continuously seek out opportunities to grow and make meaningful contributions to impactful projects</h3>
 
 ---
 
