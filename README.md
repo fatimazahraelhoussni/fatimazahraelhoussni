@@ -9,43 +9,29 @@ I'm passionate about technology, software architecture, and solving complex prob
 
 ---
 
-
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 **Education**: Final-year software engineering student at ENSA Oujda
-- 💻 **Expertise**: Backend Development, Frontend Development, and Cloud Technologies
-- 🔍 **Interests**: Artificial Intelligence, Big Data, and Blockchain
-- 🌱 **Currently Learning**: DevOps, Kubernetes, and Machine Learning
-- 🚀 **Career Goal**: To create innovative and effective solutions that address current technological challenges
-
----
-
 <h2 align="center">🛠️ Technical Skills</h2>
 
 <div style="text-align: center; margin-top: 20px;">
   <table style="width: 80%; margin: 0 auto; border: 1px solid #eaeaea; padding: 10px; font-family: Arial, sans-serif;">
     <tr>
       <td style="text-align: left; padding: 10px;"><strong>Programming Languages:</strong></td>
-      <td style="text-align: left; padding: 10px;">Java, JavaScript, C#, PHP</td>
+      <td style="text-align: left; padding: 10px;">Java, JavaScript</td>
     </tr>
     <tr>
       <td style="text-align: left; padding: 10px;"><strong>Frontend:</strong></td>
-      <td style="text-align: left; padding: 10px;">HTML, CSS, React</td>
+      <td style="text-align: left; padding: 10px;">React</td>
     </tr>
     <tr>
       <td style="text-align: left; padding: 10px;"><strong>Backend:</strong></td>
-      <td style="text-align: left; padding: 10px;">Spring/Spring Boot, Symfony</td>
+      <td style="text-align: left; padding: 10px;">Spring/Spring Boot</td>
     </tr>
     <tr>
       <td style="text-align: left; padding: 10px;"><strong>Databases:</strong></td>
-      <td style="text-align: left; padding: 10px;">MySQL, MongoDB</td>
+      <td style="text-align: left; padding: 10px;">MySQL, MongoDB,Oracle</td>
     </tr>
     <tr>
       <td style="text-align: left; padding: 10px;"><strong>Development Tools:</strong></td>
-      <td style="text-align: left; padding: 10px;">Git, Docker, Visual Studio Code</td>
+      <td style="text-align: left; padding: 10px;">Git, Docker,SonareQube</td>
     </tr>
   </table>
 </div>
