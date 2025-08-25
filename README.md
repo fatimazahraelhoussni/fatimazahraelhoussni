@@ -15,11 +15,12 @@ Our focus is on **performance, interoperability, and compatibility**, allowing d
 
 | Category | Skills |
 |----------|-------|
-| **Languages** | Java, JavaScript, TypeScript |
-| **Frontend** | React, HTML, CSS |
-| **Backend** | Spring / Spring Boot, Micronaut |
+| **Programming Languages** | Java, JavaScript |
+| **Frameworks & Libraries** | React.js, Spring Boot, Micronaut |
+| **Compilers & Performance** | GraalVM, GraalJS, QuickJS4J, SWC, TSC (TypeScript compiler), JMH, Flamegraphs |
 | **Databases** | MySQL, MongoDB, Oracle |
-| **Tools** | Git, Docker, SonarQube, GraalVM |
+| **Development Tools** | Git, Maven / Gradle, SonarQube, Docker, Jenkins |
+
 
 ---
 
