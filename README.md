@@ -1,10 +1,6 @@
 
 <h1 align="center">Welcome to Fatima Zahra EL HOUSSNI's GitHub Profile 👋</h1>
-<h3 align="center">I'm a Research Assistant at Oracle — specifically within Oracle Labs, the advanced research and development branch of Oracle.
-
-Oracle Labs focuses on exploring new ideas, emerging technologies, and innovative approaches to shape the future of computing. As part of this dynamic environment, I’m deepening my knowledge of modern software systems and contributing to forward-thinking research projects.
-
-I'm passionate about technology, software architecture, and solving complex problems. With a curious and motivated mindset, I continuously seek out opportunities to grow and make meaningful contributions to impactful projects</h3>
+<h3 align="center">I am a researcher and member of the Graal.js team at Oracle Labs, the team responsible for developing the JavaScript engine of GraalVM. We build and maintain a high-performance, standards-compliant engine that brings modern JavaScript support into GraalVM, enabling seamless execution in polyglot and cloud-native environments. Our work advances interoperability, performance, and compatibility, empowering developers to integrate JavaScript with Java and other languages efficiently</h3>
 
 ---
 
