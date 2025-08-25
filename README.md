@@ -4,7 +4,7 @@
 I am a researcher and member of the <strong>Graal.js team at Oracle Labs</strong>.  
 Our team develops and maintains the <strong>JavaScript engine of GraalVM</strong>,  
 a high-performance and standards-compliant engine that brings modern  
-JavaScript and TypeScript support into the GraalVM ecosystem.  
+JavaScript support into the GraalVM ecosystem.  
 We focus on advancing <strong>performance, interoperability, and compatibility</strong>,  
 enabling developers to seamlessly run JavaScript in polyglot and  
 cloud-native environments, and integrate it efficiently with Java and other languages.
