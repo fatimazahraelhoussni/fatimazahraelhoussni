@@ -6,8 +6,8 @@
 ## 🚀 About Me
 
 I am a **researcher and software engineer** working on the **Graal.js team at Oracle Labs**.  
-We develop and maintain the **JavaScript engine of GraalVM**, enabling modern JavaScript and TypeScript to run seamlessly in **polyglot and cloud-native environments**.  
-Our focus is on **performance, interoperability, and compatibility**, allowing developers to combine JavaScript with Java and other languages efficiently.  
+The team develops and maintains the **JavaScript engine of GraalVM**, enabling modern JavaScript to run seamlessly in **polyglot and cloud-native environments**.  
+Its focus is on **performance, interoperability, and compatibility**, allowing developers to combine JavaScript with Java and other languages efficiently.  
 
 ---
 
