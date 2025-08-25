@@ -40,13 +40,6 @@ Here are a few examples of what I’ve worked on with Graal.js and related techn
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatimazahraelhoussni&show_icons=true&theme=radical" alt="Fatima Zahra's GitHub stats">
-</p>
-
----
 
 ## 📫 Contact Me
 
