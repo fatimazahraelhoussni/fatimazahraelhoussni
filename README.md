@@ -1,47 +1,45 @@
-<h1 align="center">👋 Welcome to Fatima Zahra EL HOUSSNI's GitHub</h1>
-
-<h3 align="center">
-I am a researcher and member of the <strong>Graal.js team at Oracle Labs</strong>.  
-Our team develops and maintains the <strong>JavaScript engine of GraalVM</strong>,  
-a high-performance and standards-compliant engine that brings modern  
-JavaScript support into the GraalVM ecosystem.  
-We focus on advancing <strong>performance, interoperability, and compatibility</strong>,  
-enabling developers to seamlessly run JavaScript in polyglot and  
-cloud-native environments, and integrate it efficiently with Java and other languages.
-</h3>
+<h1 align="center">👋 Hi, I'm Fatima Zahra EL HOUSSNI</h1>
+<h3 align="center">Researcher and Software engineer | Graal.js Team at Oracle Labs</h3>
 
 ---
 
-<h2 align="center">🛠️ Technical Skills</h2>
+## 🚀 About Me
 
-<div align="center">
-  <table style="width: 80%; border: 1px solid #eaeaea; padding: 10px; font-family: Arial, sans-serif;">
-    <tr>
-      <td><strong>Programming Languages:</strong></td>
-      <td>Java, JavaScript</td>
-    </tr>
-    <tr>
-      <td><strong>Frontend:</strong></td>
-      <td>React</td>
-    </tr>
-    <tr>
-      <td><strong>Backend:</strong></td>
-      <td>Spring / Spring Boot</td>
-    </tr>
-    <tr>
-      <td><strong>Databases:</strong></td>
-      <td>MySQL, MongoDB, Oracle</td>
-    </tr>
-    <tr>
-      <td><strong>Development Tools:</strong></td>
-      <td>Git, Docker, SonarQube</td>
-    </tr>
-  </table>
-</div>
+I am a **researcher and software engineer** working on the **Graal.js team at Oracle Labs**.  
+We develop and maintain the **JavaScript engine of GraalVM**, enabling modern JavaScript and TypeScript to run seamlessly in **polyglot and cloud-native environments**.  
+Our focus is on **performance, interoperability, and compatibility**, allowing developers to combine JavaScript with Java and other languages efficiently.  
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|----------|-------|
+| **Languages** | Java, JavaScript, TypeScript |
+| **Frontend** | React, HTML, CSS |
+| **Backend** | Spring / Spring Boot, Micronaut |
+| **Databases** | MySQL, MongoDB, Oracle |
+| **Tools** | Git, Docker, SonarQube, GraalVM |
+
+---
+
+## 🌟 Projects & Demos
+
+Here are a few examples of what I’ve worked on with Graal.js and related technologies:
+
+- **Polyglot JavaScript Engine Demos** – Integrating JavaScript into Java applications using GraalVM.  
+- **Server-side React Rendering** – Rendering charts entirely on the server using GraalVM.  
+- **Custom TypeScript Runtime** – Built a system for compiling and executing TypeScript entirely within GraalJS, enabling full TypeScript support.
+- **Performance Optimization Benchmarks** – Conducted benchmarks and optimizations for GraalJS-based applications, significantly improving throughput and overall execution speed.
+- **GraalJS 25 Early Testing** – Tested the upcoming GraalJS 25 release ahead of its official launch (planned September 2025).  
+  Responsibilities included identifying **performance regressions**, **compatibility issues**, and **runtime stability problems**, as well as reporting **bugs and limitations** to ensure a smooth release.
+
+*(Check my repositories for full demos and examples!)*  
+
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatimazahraelhoussni&show_icons=true&theme=radical" alt="Fatima Zahra's GitHub stats">
@@ -49,7 +47,9 @@ cloud-native environments, and integrate it efficiently with Java and other lang
 
 ---
 
-### 📫 Contact
+## 📫 Contact Me
+
+Feel free to reach out for collaborations, questions, or interesting projects!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fatima-zahra-el-houssni" target="_blank">
