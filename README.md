@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/graalvm/.github/alina-yur-patch-1/github-cover.png" alt="android" width="70%" height="70%" />
 
 <h1 align="center">Welcome to Fatima Zahra EL HOUSSNI's GitHub Profile 👋</h1>
 <h3 align="center">I'm a Research Assistant at Oracle — specifically within Oracle Labs, the advanced research and development branch of Oracle.
